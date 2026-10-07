@@ -51,4 +51,5 @@ Future Scope
 Future enhancements can include role-based access for students, placement officers, and administrators; company and job-drive management; student eligibility filtering; placement notifications; resume management; interview scheduling; placement analytics and reports; and integration with email or notification services.
 
 Conclusion
+
 The College Placement Management Portal demonstrates the development of a database-driven web application for managing student and placement information. The integration of Java with JDBC and SQL provides reliable database connectivity, while HTML, CSS, and JavaScript support the web interface. The project provides a foundation for further development into a comprehensive college placement management system.
